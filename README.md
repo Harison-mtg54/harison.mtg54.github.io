@@ -37,7 +37,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Seu Nome. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Harrison Almeida de Andrade. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
