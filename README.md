@@ -31,7 +31,7 @@
         <h2>Contato</h2>
         <p>Se você deseja ser contatado, pode adicionar suas informações de contato aqui. Por exemplo:</p>
         <address>
-            <p>Email: <a href="mailto:exemplo@dominio.com">exemplo@dominio.com</a></p>
+            <p>Email: <a href="mailto:exemplo@dominio.com">harison.mtg54@gmail.com</a></p>
             <p>Telefone: (95) 12345-6789</p>
         </address>
     </section>
