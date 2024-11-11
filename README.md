@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--<title>Projeto Simples</title>-->
-    Projeto Simples
+    <title>Projeto Simples</title>
 </head>
 <body>
     <header>
@@ -17,27 +17,18 @@
         </nav>
     </header>
 
-<section id="home">
+    <section id="home">
         <h2>Início</h2>
         <p>Este é um parágrafo na seção de início do seu projeto. Aqui você pode adicionar informações sobre seu projeto ou qualquer outro conteúdo que desejar.</p>
     </section>
 
-<section id="about">
+    <section id="about">
         <h2>Sobre</h2>
         <p>Esta seção é onde você pode contar mais sobre você ou sobre o projeto. Adicione detalhes e informações que você acha que são importantes.</p>
     </section>
 
-<section id="contact">
+    <section id="contact">
         <h2>Contato</h2>
         <p>Se você deseja ser contatado, pode adicionar suas informações de contato aqui. Por exemplo:</p>
         <address>
-            <p>Email: <a href="mailto:harison.mtg54@gamil.com">harison.mtg54@gmail.com</a></p>
-            <p>Telefone: (95) 12345-6789</p>
-        </address>
-    </section>
-        
-<footer>
-        <p>&copy; 2024 Harrison Almeida de Andrade. Todos os direitos reservados.</p>
-</footer>
-</body>
-</html>
+            <p>Email: <a href="mailto:harison.mtg54@gmail.com">har
